@@ -5,19 +5,17 @@
   Hi, I'm <strong>Prem Shinde</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>A passionate Computer Engineering student with a strong interest in software development, data science, and web technologies.
+I enjoy building practical projects — from AI systems and web applications to data-driven tools — that solve real-world problems.
+I’m always eager to learn, explore new technologies, and collaborate on innovative ideas.</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:shindeprem695@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -58,7 +56,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,java,SQL,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,typescript,SQL" />
 <br/><br/>
 
 </td>
@@ -103,9 +101,5 @@
 
 ## ❤️ Support Me
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+
 
