@@ -97,6 +97,10 @@ I’m always eager to learn, explore new technologies, and collaborate on innova
   <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prem-91&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## ❤️ Support Me
