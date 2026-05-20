@@ -79,7 +79,7 @@ I’m always eager to learn, explore new technologies, and collaborate on innova
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,andriodstudio,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,antigravity,googlecloud" />
 </td>
 </tr>
 </table>
